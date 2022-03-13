@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to right, #36dbff, #d8d0dd, #b9999b) !important;
+}
+
+.overlay {
+    display: none;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background: rgba(255, 255, 255, 0.8) url("../img/loader.gif") center
+        no-repeat;
+}
+
+body.loading {
+    overflow: hidden;
+}
+body.loading .overlay {
+    display: block;
+}

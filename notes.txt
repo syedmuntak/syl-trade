@@ -1,0 +1,2 @@
+employee_id (fk)
+employeer_id (fk)
