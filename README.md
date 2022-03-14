@@ -1,8 +1,8 @@
-# **Hiring-Services**
+# **Syl Trade**
 
 
 ## Installation
-1. Clone the project `git clone https://github.com/sukanta7660/Hiring-Services.git`
+1. Clone the project `git clone https://github.com/syedmuntak/syl-trade.git`
 
 2. Go to project folder by entering `cd Hiring-Services` command
 
